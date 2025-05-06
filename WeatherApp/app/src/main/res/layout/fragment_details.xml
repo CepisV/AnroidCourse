@@ -1,0 +1,6 @@
+   <LinearLayout ... orientation="vertical">
+<TextView android:id="@+id/cityName" ... />
+<TextView android:id="@+id/temperatureValue" ... />
+<TextView android:id="@+id/conditionValue" ... />
+<TextView android:id="@+id/feelsLikeValue" ... />
+    </LinearLayout>

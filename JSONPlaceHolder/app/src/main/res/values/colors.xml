@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_01">#6750A4</color>
+    <color name="main_02">#1D1B20</color>
+    <color name="text_01">#1C1B1F</color>
+    <color name="text_02">#6F6F6F</color>
+
+    <color name="ui_01">#FFFFFF</color>
+    <color name="ui_02">#F5F5F5</color>
+    <color name="ui_03">#E0E0E0</color>
+    <color name="ui_04">#D6D6D6</color>
+    <color name="ui_05">#B0B0B0</color>
+
+    <color name="links">#4C8BF5</color>
+
+</resources>

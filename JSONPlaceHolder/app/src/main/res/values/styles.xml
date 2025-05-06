@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Header1">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Header2">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Header3">
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Header4">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Body1">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Body2">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Subtitle">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="DefaultCardView" parent="CardView">
+        <item name="cardBackgroundColor">@color/ui_02</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="cardElevation">4dp</item>
+    </style>
+
+    <declare-styleable name="UserInfoItem">
+        <attr name="email" format="string" />
+        <attr name="name" format="string" />
+        <attr name="phone" format="string"/>
+        <attr name="website" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="UserCompanyItem">
+        <attr name="companyName" format="string"/>
+        <attr name="fullName" format="string"/>
+        <attr name="services" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="UserAddressItem">
+        <attr name="street" format="string"/>
+        <attr name="suite" format="string"/>
+        <attr name="city" format="string"/>
+        <attr name="zipcode" format="string"/>
+    </declare-styleable>
+
+</resources>

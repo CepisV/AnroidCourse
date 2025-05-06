@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">JsonPlaceholder Typicode</string>
+    <string name="posts">Posts</string>
+    <string name="albums">Albums</string>
+    <string name="users">Users</string>
+    <string name="profile">Profile</string>
+    <string name="show_all">Show All</string>
+    <string name="by_w_colon">By:</string>
+    <string name="comments">Comments</string>
+    <string name="email_w_colon">Email:</string>
+    <string name="fullname_w_colon">Full Name:</string>
+    <string name="phone_w_colon">Phone:</string>
+    <string name="company">Company</string>
+    <string name="website_w_colon">Website:</string>
+    <string name="company_name">Company name:</string>
+    <string name="services_w_colon">Business Services:</string>
+    <string name="address">Address</string>
+    <string name="street_w_colon">Street:</string>
+    <string name="suite_w_colon">Suite:</string>
+    <string name="city_w_colon">City:</string>
+    <string name="zipcode">Zipcode:</string>
+    <string name="show_on_map">Show on Map</string>
+    <string name="my_todos">My Todos</string>
+    <string name="your_todos">Your Todos</string>
+
+</resources>
